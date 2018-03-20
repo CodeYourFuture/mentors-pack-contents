@@ -3,13 +3,14 @@
 ### Course
 
 * [Code of Conduct](/src/code-of-conduct.md)
-* [Who we are](/src/who-we-are.md)
-* [Our syllabus][/src/syllabus.md]
-  * [Course structure][/src/course-structure.md]
-  * [Class structure][/src/class-structure.md]
+* [Before you join](/src/before-you-join.md)
+  * [FAQS](/src/faqs.md)
+* [Class structure](/src/class-structure.md)
+  * [Course structure](/src/course-structure.md)
+  * [Our syllabus](/src/syllabus.md)
   * [Graduation Projects](/src/graduation-projects.md)
-* [Tools we use][/src/our-tools]
-* [Volunteer roles](/src/volunteer-roles.md)
+* [Volunteering (no coding)](/src/no-coding-volunteering.md)
+* [Volunteering (coding)](/src/volunteering-roles.md)
   * [Module lead](/src/volunteering-roles.md#module-lead)
   * [Saturday Class Teacher](/src/volunteering-roles.md#saturday-class-teacher)
   * [In-class assistance](/src/volunteering-roles.md#in-class-assistance)
@@ -18,7 +19,7 @@
   * [General Online help](/src/volunteering-roles.md#general-online-help)
   * [Homework Review](/src/volunteering-roles.md#homework-review)
   * [Graduation Project](/src/volunteering-roles.md#graduation-project)
-  * [Non-techies volunteers](/src/volunteering-roles.md#non-technical-support)
+* [Tools we use](/src/our-tools.md)
   
 
 

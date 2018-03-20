@@ -15,6 +15,7 @@ Harassment includes, but is not limited to:
 
 House Rules
 ---
+These are the house rules for the students but they should give mentors an impression of how the class is run and what's expected.
 
 + **Whilst you're a student, arrive on time**. Lots of people are giving freely of their time and knowledge to make the class possible and giving up other commitments to be here. Respect that, and always be on time.
 
