@@ -1,9 +1,12 @@
 Code of Conduct
 ---
-Our project is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, nationality, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof) etc... We do not tolerate harassment of the project's members (mentors, students, volunteers etc...) in any form. Anyone violating these rules may be expelled from the course, at the discretion of CodeYourFuture.
+Our project is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, nationality, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), preferred operating system, programming language, or text editor.
+
+We do not tolerate under any circumstances harassment of or by the project's members (mentors, students, volunteers etc...) and/or venue staff. Anyone violating these rules may be expelled from the course, at the discretion of CodeYourFuture.
 
 Harassment includes, but is not limited to:
-- Verbal comments that reinforce social structures of domination [related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality etc...
+
+- Verbal comments that reinforce social structures of domination (related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality etc...)
 - Sexual images in public spaces
 - Deliberate intimidation, stalking, or following
 - Harassing photography or recording
@@ -19,7 +22,7 @@ These are the house rules for the students but they should give mentors an impre
 
 + **Whilst you're a student, arrive on time**. Lots of people are giving freely of their time and knowledge to make the class possible and giving up other commitments to be here. Respect that, and always be on time.
 
-+  **Leave our space cleaner and tidier than when we arrive**. We are hosted by generous folks who are offering their space (and time) to help us - the least we can do is to keep their space tidy and clean, and consider it our own.
++  **Leave our space cleaner and tidier than when we arrived**. We are hosted by generous folks who are offering their space (and time) to help us - the least we can do is to keep their space tidy and clean, and consider it our own.
 
 +  **Communication is key (and in English)**. Setup Slack on your phone and computer, and use it all the time to ask and provide help, enquire about the classes etc... Also, the classes help lots of the students (and volunteers!) to improve their English as a nice side effect, so even if you share a language with some of the participants, resist the temptation and speak in English!
 

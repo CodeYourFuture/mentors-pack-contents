@@ -2,12 +2,10 @@
 
 - Read the contents of this site
 - Agree to the Code of Conduct
-- Tell us what roles you'd like to be involved 
+- Tell us what roles you'd like to be involved with
 
-# Once you join, make sure:
+# Once you join, you will be added to:
 
-- You are added to our Slack channel (scotland, scotland-mentors and scoland-class-x)
+- Our Slack channel (scotland, scotland-mentors and scoland-class-x)
 
-- You are added to the calendar to receive notifications of classes and changes of locations and times (tell us when you no longer want to receive those).
-
-- 
+- The Google calendar notifications of class dates, times and locations (please tell us when you no longer want to receive those).

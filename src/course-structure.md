@@ -1,7 +1,7 @@
 Course structure
 ---
 
-The course consists of modules/sprints that are three weeks each. We start with three core JS modules, then Node and React, and a graduation project.
+The course consists of modules/sprints that last approximately three weeks each. We start with three core JS modules, then Node and React, and a graduation project.
 
 The format consists of one class every Saturday plus (a lot of) homework to be completed during the week and group projects.
 
