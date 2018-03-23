@@ -14,4 +14,12 @@
 * [Volunteering (no coding)](/src/no-coding-volunteering.md)
 * [Volunteering (coding)](/src/volunteering-roles.md)
   * [Module lead](/src/volunteering-roles.md#module-lead)
-  * [Saturday Class Teacher](/src/volunteering-roles.md#
+  * [Saturday Class Teacher](/src/volunteering-roles.md#saturday-class-teacher)
+  * [In-class assistance](/src/volunteering-roles.md#in-class-assistance)
+  * [Mid-week help](/src/volunteering-roles.md#mid-week-help)
+  * [Student-Mentor pairing](/src/volunteering-roles.md#student-mentor-pairing)
+  * [General Online help](/src/volunteering-roles.md#general-online-help)
+  * [Homework Review](/src/volunteering-roles.md#homework-review)
+  * [Graduation Project](/src/volunteering-roles.md#graduation-project)
+* [Tools we use](/src/our-tools.md)
+  
