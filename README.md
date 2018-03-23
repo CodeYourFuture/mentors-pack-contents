@@ -1,4 +1,4 @@
-# [Scotland Mentors Welcome Pack](https://codeyourfuture.github.io/mentors-pack-master/) [![Build Status](https://travis-ci.org/CodeYourFuture/mentors-pack.svg?branch=master)](https://travis-ci.org/CodeYourFuture/mentors-pack) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/CodeYourFuture/mentors-pack/blob/master/CONTRIBUTING.md)
+# [Scotland Mentors Welcome Pack](https://codeyourfuture.github.io/mentors-pack/) [![Build Status](https://travis-ci.org/CodeYourFuture/mentors-pack-contents.svg?branch=master)](https://travis-ci.org/CodeYourFuture/mentors-pack-contents) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/CodeYourFuture/mentors-pack-contents/blob/master/CONTRIBUTING.md)
 
 CodeYourFuture is a programming school for refugees and asylum seekers in the UK.
 
@@ -15,3 +15,15 @@ The Welcome Pack is available on https://codeyourfuture.github.io/mentors-pack-m
 Please have a read through it if you are interested in volunteering with CYF.
 
 The repo is always work in progress. Please raise a Pull Request if you see any outdated information or to suggest additions, or start  a conversation as a Github issue if you want to discuss any of the contents.
+
+## Things to do before you join
+Agree to the Code of Conduct
+Read the contents of this site
+Think about what roles you'd like to be involved in
+
+### When to join
+We aim to get new mentors to start at the beginning of new modules. These are the start dates for the next two modules: 
+
+*JS Core 3*: 14th of April, 2018
+*Node 1*: 5th of May, 2018
+
