@@ -10,7 +10,7 @@ The coordination and management of the class is as important as teaching the mai
 
 - **Companies outreach**: Reaching out to companies to establish relationships, primarily to find job opportunities for graduates.
 
-These four area above are the most time consuming, then there are other areas that are as important:
+These four area above are the most time consuming, then there are other areas such as:
 
 - **Fundraising**: Exploring fundraising possibilities to cover childcare, transport, mobile internet and other costs of students.
 - **Media**: Media outreach, interviews etc..
