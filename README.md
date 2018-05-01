@@ -24,7 +24,7 @@ The repo is always work in progress. Please raise a Pull Request if you see any 
 ### When to join
 We aim to get new mentors to start at the beginning of new modules. These are the start dates for the next two modules: 
 
-- *JS Core 3*: 14th of April, 2018
-- *Node 1*: 5th of May, 2018
+- *React module*: 5th of May, 2018
+- *Node 1 module*: 26th of May, 2018
 - Add [our calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fYmswNDFocTNkdm9zdjBidmdkN2wwb2lwY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for the definitive class schedule
 
