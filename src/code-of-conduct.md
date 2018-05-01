@@ -15,6 +15,8 @@ Harassment includes, but is not limited to:
 - Unwelcome sexual attention
 - Advocating for, or encouraging, any of the above behaviour
 
+We also do not discriminate by "legal" status, everyone - Assylum Seeker, Refugee or whatever their legal classification is - they are welcome to join the course and take part.
+
 
 House Rules
 ---
