@@ -10,7 +10,7 @@ Contact us at scotland(at)codeyourfuture.io
 
 ## The Welcome Pack
 
-The Welcome Pack is available on https://codeyourfuture.github.io/mentors-pack-master and it aims to help the new mentors have a better understanding of what is expected from them and to ease their onboarding into CYF.
+The Welcome Pack is available on https://codeyourfuture.github.io/mentors-pack and it aims to help the new mentors have a better understanding of what is expected from them and to ease their onboarding into CYF.
 
 Please have a read through it if you are interested in volunteering with CYF.
 
