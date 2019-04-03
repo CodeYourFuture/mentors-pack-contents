@@ -1,7 +1,7 @@
 How each class is structured
 ---
 
-The weekly Saturday class is normally held at **Kinning Park Complex**, 43 Cornwall St, Glasgow G41 1BA ([view on map](https://goo.gl/maps/YUoyXMVyJNA2)) from 11am to 5:30pm, including a 1 hour lunch break. Food is brought by those mentors and students who wish to do so and shared amongst everyone - there is no requirement to bring food, but it’s a nice way to contribute.
+The weekly Saturday class is normally held at _[include address with Google Maps reference]_ from 11am to 5:30pm, including a 1 hour lunch break. Food is brought by those mentors and students who wish to do so and shared amongst everyone - there is no requirement to bring food, but it’s a nice way to contribute.
 
 The format of the classes can differ depending on the module and its lead mentor.
 
