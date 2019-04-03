@@ -1,12 +1,12 @@
-# [Scotland Mentors Welcome Pack](https://codeyourfuture.github.io/mentors-pack/) [![Build Status](https://travis-ci.org/CodeYourFuture/mentors-pack-contents.svg?branch=master)](https://travis-ci.org/CodeYourFuture/mentors-pack-contents) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/CodeYourFuture/mentors-pack-contents/blob/master/CONTRIBUTING.md)
+# [London Mentors Welcome Pack](https://codeyourfuture.github.io/mentors-pack/) [![Build Status](https://travis-ci.org/CodeYourFuture/mentors-pack-contents.svg?branch=london)](https://travis-ci.org/CodeYourFuture/mentors-pack-contents) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/CodeYourFuture/mentors-pack-contents/blob/london/CONTRIBUTING.md)
 
 CodeYourFuture is a programming school for refugees and asylum seekers in the UK.
 
 We offer a free six-months intensive program teaching Web Applications development with the aim of preparing the students for a job as a Junior developer by the end of the course.
 
-We have been running in London since October 2016, and we now have classes in Glasgow and Manchester. Our second cohort in Glasgow started on the 20th of January 2018.
+We have been running in London since October 2016, and we now have classes in Glasgow and Manchester.
 
-Contact us at scotland(at)codeyourfuture.io
+Contact us at london(at)codeyourfuture.io
 
 ## The Welcome Pack
 
