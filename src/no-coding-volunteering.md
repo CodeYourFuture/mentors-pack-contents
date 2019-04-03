@@ -2,7 +2,7 @@
 The coordination and management of the class is as important as teaching the main class itself. There are several tasks in that aspect, such as:
 
 
-- **Email duty**: This is by far the most time-consuming admin task, we need people to respond to emails and enquiries reaching the generic scotland@codeyourfuture.io. 
+- **Email duty**: This is by far the most time-consuming admin task, we need people to respond to emails and enquiries reaching the generic london@codeyourfuture.io. 
 
 - **Students recruitment and following on the Application Process**: Recruitment of students for next classes and following on the new applicants and their progress in the application process, as well as coordinating with other cities to improve the process and streamline it.
 
@@ -17,7 +17,7 @@ These four area above are the most time consuming, then there are other areas su
 - **Intra-city outreach**: Reaching out to CYF London and Manchester, to share knowledge and expertise.
 - **Tools & Systems**: Custom tools we build to facilitate our work
 - **Social**: Social activities for the students and mentors
-- **Community partnerships**: partnerships with community organisations and NGOs in Glasgow and beyond
+- **Community partnerships**: partnerships with community organisations and NGOs in London and beyond
 - **Childcare**: arranging childcare (seasonal - just before the start of new modules)
 - **Mentors recruitment**: Finding new mentors and volunteers to join us, and helping them onboard easily
 
