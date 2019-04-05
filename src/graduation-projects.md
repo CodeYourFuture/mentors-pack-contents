@@ -1,8 +1,4 @@
 Graduation projects
 ---
 
-The graduation projects are real-life projects built for a community organisation.
-
-You can play this game that the students built as part of it. (https://legodi-app.herokuapp.com/#/weegie/)
-
-The projects are database-driven apps built with Node, Mongo and React. This can give an idea of where we want to get our students at the end of the six months. By the end of the course, our graduates are comfortable using these frameworks to build full-stack web applications.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec interdum risus, quis congue enim. Duis ut arcu ornare, aliquam nisi in, convallis tellus. Vestibulum pulvinar dignissim magna, eu facilisis leo bibendum eget. Donec id interdum dolor. Mauris a dui tortor. Mauris nec dolor quam. Ut sed nulla eu odio accumsan finibus aliquet sed lectus. Sed vel nisi ac nisi consequat bibendum nec viverra diam. Phasellus ornare lorem libero, ut hendrerit velit vestibulum eleifend. Fusce posuere tempus nisl, nec rutrum nisl laoreet a. Maecenas blandit porttitor sapien in efficitur. Donec mauris urna, dignissim ac mi in, consequat ultrices nisl. Sed ornare nunc eu enim fringilla ultrices. Duis pretium egestas magna, interdum semper odio accumsan vitae. 

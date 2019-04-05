@@ -1,6 +1,6 @@
 # FAQS
 
-## What if I can't come every Saturday?
+## What if I can't come every Sunday?
 Mentors are not expected to come every weekend, although advanced absence notification is appreciated to help the team plan.
 
 There are also a lot of different ways to be involved in with CodeYourFuture that do not require attendance at teaching sessions. Please have a look at the [non-coding volunteering tasks](/src/no-coding-volunteering.md) and the [coding volunteering roles](/src/volunteering-roles.md) for further information.
