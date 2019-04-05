@@ -1,10 +1,4 @@
 Course structure
 ---
 
-The course consists of modules/sprints that last approximately three weeks each. We start with three core JS modules, then Node and React, and a graduation project.
-
-The format consists of one class every Saturday plus (a lot of) homework to be completed during the week and group projects.
-
-Mid-week face to face meetings and online sessions are also regularly organised between mentors and students to help with homework. This is done on an ad-hoc basis and on days, times and venues arranged between those taking part in the arrangement.
-
-At the end of each module, we run a retrospective and take actions based on the students' feedback.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec interdum risus, quis congue enim. Duis ut arcu ornare, aliquam nisi in, convallis tellus. Vestibulum pulvinar dignissim magna, eu facilisis leo bibendum eget. Donec id interdum dolor. Mauris a dui tortor. Mauris nec dolor quam. Ut sed nulla eu odio accumsan finibus aliquet sed lectus. Sed vel nisi ac nisi consequat bibendum nec viverra diam. Phasellus ornare lorem libero, ut hendrerit velit vestibulum eleifend. Fusce posuere tempus nisl, nec rutrum nisl laoreet a. Maecenas blandit porttitor sapien in efficitur. Donec mauris urna, dignissim ac mi in, consequat ultrices nisl. Sed ornare nunc eu enim fringilla ultrices. Duis pretium egestas magna, interdum semper odio accumsan vitae. 

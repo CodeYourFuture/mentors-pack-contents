@@ -1,8 +1,4 @@
 Syllabus
 ---
 
-Our core syllabus is Open Source, JavaScript heavy and we consider it to be on an ongoing improvement process. We aim to constantly listen to our mentors and students feedback and adapt the course accordingly.
-
-We have also introduced extra modules as and when the opportunity has arisen or the community has felt the need to do so. Examples of this are the Java module, the Agile module and the WordPress module, etc.
-
-We also take students through mock interviews and help them prepare their CVs.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec interdum risus, quis congue enim. Duis ut arcu ornare, aliquam nisi in, convallis tellus. Vestibulum pulvinar dignissim magna, eu facilisis leo bibendum eget. Donec id interdum dolor. Mauris a dui tortor. Mauris nec dolor quam. Ut sed nulla eu odio accumsan finibus aliquet sed lectus. Sed vel nisi ac nisi consequat bibendum nec viverra diam. Phasellus ornare lorem libero, ut hendrerit velit vestibulum eleifend. Fusce posuere tempus nisl, nec rutrum nisl laoreet a. Maecenas blandit porttitor sapien in efficitur. Donec mauris urna, dignissim ac mi in, consequat ultrices nisl. Sed ornare nunc eu enim fringilla ultrices. Duis pretium egestas magna, interdum semper odio accumsan vitae. 
